@@ -1,0 +1,39 @@
+src/memory/limited_vec.rs
+  s_e2c5e9b07edcc9::t_fbdaf4d4f9252c 66-69
+src/parser/lexer/actions.rs
+  s_e2c5e9b07edcc9::t_9baa188b47c741 4,169,174,336,339-341,344
+src/parser/lexer/mod.rs
+  s_e2c5e9b07edcc9::t_01c5fbddf53ca9 10,21
+src/parser/mod.rs
+  s_e2c5e9b07edcc9::t_4bb39bcd93b09c 19,35,57-62,65,159-209
+src/parser/state_machine/mod.rs
+  s_e2c5e9b07edcc9::t_79503d7c94cba8 138
+src/parser/state_machine/syntax/tag/attributes.rs
+  s_e2c5e9b07edcc9::t_71c689ec052872 15-16,23,25,27,34,40,45,50-51
+src/parser/tag_scanner/actions.rs
+  s_e2c5e9b07edcc9::t_8e13fbd7fa5ee2 91-92,107
+src/parser/tree_builder_simulator/mod.rs
+  s_e2c5e9b07edcc9::t_41283a6d0b48cb 263,292
+src/transform_stream/mod.rs
+  s_e2c5e9b07edcc9::t_3cdd77b64049ba 67,71-76
+tests/fixtures/token_capturing.rs
+  s_e2c5e9b07edcc9::t_212be2899c8700 99-100
+tests/parser_attribute_memory.rs
+  s_e2c5e9b07edcc9::t_59bc9e4f36f950 1-121
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "1f9c30f14868ca0939e2ebf46da256e5d4822709",
+  "prompts": {},
+  "sessions": {
+    "s_e2c5e9b07edcc9": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a0b546-3a20-75b1-8168-2b58fbc07a97",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "André Cruz <acruz@cloudflare.com>"
+    }
+  }
+}
